@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dervis/projects/neural_Network/./include/layer.hpp
+iostream
+-
+vector
+-
+neuron.hpp
+/home/dervis/projects/neural_Network/./include/neuron.hpp
+
+/home/dervis/projects/neural_Network/./include/matrix.hpp
+vector
+-
+
+/home/dervis/projects/neural_Network/./include/neuron.hpp
+
+/home/dervis/projects/neural_Network/main.cpp
+iostream
+-
+./include/neuron.hpp
+/home/dervis/projects/neural_Network/./include/neuron.hpp
+./include/layer.hpp
+/home/dervis/projects/neural_Network/./include/layer.hpp
+./include/matrix.hpp
+/home/dervis/projects/neural_Network/./include/matrix.hpp
+

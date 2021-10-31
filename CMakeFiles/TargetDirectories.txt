@@ -1,0 +1,3 @@
+/home/dervis/projects/neural_Network/CMakeFiles/rebuild_cache.dir
+/home/dervis/projects/neural_Network/CMakeFiles/n_network.dir
+/home/dervis/projects/neural_Network/CMakeFiles/edit_cache.dir
