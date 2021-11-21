@@ -1,1 +1,1 @@
-/usr/bin/c++   -std=c++14 -g  -rdynamic CMakeFiles/n_network.dir/main.cpp.o CMakeFiles/n_network.dir/neuron.cpp.o CMakeFiles/n_network.dir/layer.cpp.o CMakeFiles/n_network.dir/matrix.cpp.o  -o n_network 
+/usr/bin/c++   -std=c++14 -g  -rdynamic CMakeFiles/n_network.dir/main.cpp.o CMakeFiles/n_network.dir/neuron.cpp.o CMakeFiles/n_network.dir/layer.cpp.o CMakeFiles/n_network.dir/matrix.cpp.o CMakeFiles/n_network.dir/neural_network.cpp.o  -o n_network 

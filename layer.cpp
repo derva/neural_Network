@@ -2,9 +2,10 @@
 #include <iostream>
 #include "./include/neuron.hpp"
 
-Layer::Layer(int size) {
+Layer::Layer(int s) {
+  this->size = s;
   for (int i = 0; i < size; i++) {
-    neurons.push_back(new Neuron(10));
+    neurons.push_back(new Neuron(i+1));
   }
 }
 void Layer::printLayer() {

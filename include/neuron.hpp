@@ -11,6 +11,8 @@ public:
     this->activate();
   };
 
+  //setters & getters
+  void setValue(double v); 
   double getValue();
   double getActivatedValue();
   double getDerivedValue();

@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/dervis/projects/neural_Network/layer.cpp" "/home/dervis/projects/neural_Network/CMakeFiles/n_network.dir/layer.cpp.o"
   "/home/dervis/projects/neural_Network/main.cpp" "/home/dervis/projects/neural_Network/CMakeFiles/n_network.dir/main.cpp.o"
   "/home/dervis/projects/neural_Network/matrix.cpp" "/home/dervis/projects/neural_Network/CMakeFiles/n_network.dir/matrix.cpp.o"
+  "/home/dervis/projects/neural_Network/neural_network.cpp" "/home/dervis/projects/neural_Network/CMakeFiles/n_network.dir/neural_network.cpp.o"
   "/home/dervis/projects/neural_Network/neuron.cpp" "/home/dervis/projects/neural_Network/CMakeFiles/n_network.dir/neuron.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

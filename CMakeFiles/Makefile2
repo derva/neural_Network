@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/dervis/projects/neural_Network
 CMakeFiles/n_network.dir/all:
 	$(MAKE) -f CMakeFiles/n_network.dir/build.make CMakeFiles/n_network.dir/depend
 	$(MAKE) -f CMakeFiles/n_network.dir/build.make CMakeFiles/n_network.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dervis/projects/neural_Network/CMakeFiles --progress-num=1,2,3,4,5 "Built target n_network"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/dervis/projects/neural_Network/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target n_network"
 .PHONY : CMakeFiles/n_network.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/n_network.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/n_network.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/dervis/projects/neural_Network/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/dervis/projects/neural_Network/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/n_network.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/dervis/projects/neural_Network/CMakeFiles 0
 .PHONY : CMakeFiles/n_network.dir/rule

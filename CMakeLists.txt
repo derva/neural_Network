@@ -11,4 +11,5 @@ add_executable(
   neuron.cpp
   layer.cpp
   matrix.cpp
+  neural_network.cpp
 )

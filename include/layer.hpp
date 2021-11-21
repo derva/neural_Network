@@ -6,8 +6,8 @@
 class Layer{
 private:
   int size;
+public:
   std::vector<Neuron*> neurons;
-  public:
   Layer(int size);
   void printLayer();
 };

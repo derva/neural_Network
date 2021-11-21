@@ -6,13 +6,22 @@ CMakeFiles/n_network.dir/layer.cpp.o
  /home/dervis/projects/neural_Network/./include/neuron.hpp
  /home/dervis/projects/neural_Network/layer.cpp
 CMakeFiles/n_network.dir/main.cpp.o
+ /home/dervis/projects/neural_Network/./include/./layer.hpp
+ /home/dervis/projects/neural_Network/./include/./matrix.hpp
  /home/dervis/projects/neural_Network/./include/layer.hpp
  /home/dervis/projects/neural_Network/./include/matrix.hpp
+ /home/dervis/projects/neural_Network/./include/neural_network.hpp
  /home/dervis/projects/neural_Network/./include/neuron.hpp
  /home/dervis/projects/neural_Network/main.cpp
 CMakeFiles/n_network.dir/matrix.cpp.o
  /home/dervis/projects/neural_Network/./include/matrix.hpp
  /home/dervis/projects/neural_Network/matrix.cpp
+CMakeFiles/n_network.dir/neural_network.cpp.o
+ /home/dervis/projects/neural_Network/./include/./layer.hpp
+ /home/dervis/projects/neural_Network/./include/./matrix.hpp
+ /home/dervis/projects/neural_Network/./include/./neuron.hpp
+ /home/dervis/projects/neural_Network/./include/neural_network.hpp
+ /home/dervis/projects/neural_Network/neural_network.cpp
 CMakeFiles/n_network.dir/neuron.cpp.o
  /home/dervis/projects/neural_Network/./include/neuron.hpp
  /home/dervis/projects/neural_Network/neuron.cpp

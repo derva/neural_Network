@@ -5,8 +5,15 @@ double Neuron::getValue() { return this->value; }
 double Neuron::getActivatedValue() { return this->activatedVal; }
 double Neuron::getDerivedValue() { return this->derivedVal; }
 
+void Neuron::setValue(double v){
+  value = v;
+  activate();
+  derive();
+}
 
 void Neuron::activate(){
-  this->activatedVal = 1/(1 + exp(-value));
+  activatedVal = 1/(1 + exp(-value));
 }
-void Neuron::derive(){}
+void Neuron::derive(){
+  derivedVal = (exp(-value))/((1+exp(-value))*(1+exp(-value)));
+}
