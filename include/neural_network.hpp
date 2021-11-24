@@ -12,5 +12,9 @@ private:
 public:
   std::vector<Matrix> weights;
   NeuralNetwork(std::vector<int> t);
+  void printLayers();
+  void printWeights();
+  void setInputLayer(std::vector<double>& input);
+  void FeedForward();
 
 };

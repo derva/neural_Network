@@ -13,4 +13,5 @@ public:
   double getValue(int row, int col);
   void setValue(int row, int col, double v);
   void printMatrix();
+
 };

@@ -6,20 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/dervis/projects/neural_Network/./include/./layer.hpp
-iostream
--
-vector
--
-neuron.hpp
-/home/dervis/projects/neural_Network/./include/./neuron.hpp
-
-/home/dervis/projects/neural_Network/./include/./matrix.hpp
-vector
--
-
-/home/dervis/projects/neural_Network/./include/./neuron.hpp
-
 /home/dervis/projects/neural_Network/./include/layer.hpp
 iostream
 -
@@ -27,20 +13,6 @@ vector
 -
 neuron.hpp
 /home/dervis/projects/neural_Network/./include/neuron.hpp
-
-/home/dervis/projects/neural_Network/./include/matrix.hpp
-vector
--
-
-/home/dervis/projects/neural_Network/./include/neural_network.hpp
-iostream
--
-vector
--
-./matrix.hpp
-/home/dervis/projects/neural_Network/./include/./matrix.hpp
-./layer.hpp
-/home/dervis/projects/neural_Network/./include/./layer.hpp
 
 /home/dervis/projects/neural_Network/./include/neuron.hpp
 
@@ -51,34 +23,4 @@ iostream
 -
 ./include/neuron.hpp
 /home/dervis/projects/neural_Network/./include/neuron.hpp
-
-/home/dervis/projects/neural_Network/main.cpp
-iostream
--
-./include/neuron.hpp
-/home/dervis/projects/neural_Network/./include/neuron.hpp
-./include/layer.hpp
-/home/dervis/projects/neural_Network/./include/layer.hpp
-./include/matrix.hpp
-/home/dervis/projects/neural_Network/./include/matrix.hpp
-./include/neural_network.hpp
-/home/dervis/projects/neural_Network/./include/neural_network.hpp
-
-/home/dervis/projects/neural_Network/matrix.cpp
-./include/matrix.hpp
-/home/dervis/projects/neural_Network/./include/matrix.hpp
-iostream
--
-random
--
-
-/home/dervis/projects/neural_Network/neural_network.cpp
-./include/neural_network.hpp
-/home/dervis/projects/neural_Network/./include/neural_network.hpp
-
-/home/dervis/projects/neural_Network/neuron.cpp
-./include/neuron.hpp
-/home/dervis/projects/neural_Network/./include/neuron.hpp
-math.h
--
 
